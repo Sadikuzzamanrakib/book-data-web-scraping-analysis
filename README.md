@@ -42,7 +42,7 @@ This project focuses on collecting book data through web scraping and applying e
 - Predictive models provide reasonable estimates of book prices using rating and availability
 
 ## How to Run the Project
-1. Clone this repository: git clone https://github.com/yourusername/book-data-web-scraping-analysis.git
+1. Clone this repository: git clone https://github.com/Sadikuzzamanrakib/book-data-web-scraping-analysis.git
 2. Open the project in **RStudio**
 3. Run the scripts in order:
 - `01_web_scraping.R`
